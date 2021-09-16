@@ -1,0 +1,43 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled10.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyPcbJqYX2TMOnDorCHz/9r1"
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "RQFpyE9HJfBX",
+        "outputId": "08fe124f-b1ae-499f-f92f-45cbd74cb251"
+      },
+      "source": [
+        "print (\"HelloWord\")"
+      ],
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "HelloWord\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
